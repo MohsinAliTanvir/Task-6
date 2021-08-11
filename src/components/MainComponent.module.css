@@ -1,0 +1,22 @@
+.input1 {
+  padding: 20px;
+  margin-left: 150px;
+}
+
+.input2 {
+  padding-left: 150px;
+  padding-top: 20px;
+}
+
+.btn {
+  border: 1px solid #e67e22;
+  border-radius: 200px;
+  color: white;
+  background-color: #e67e22;
+  padding: 10px 30px;
+  margin: 5%;
+}
+
+input[type="file"] {
+  display: none;
+}

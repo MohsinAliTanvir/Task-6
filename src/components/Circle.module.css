@@ -1,0 +1,18 @@
+.circle {
+  height: 200px;
+  width: 200px;
+  border: 2px solid #e67e22;
+  border-radius: 50%;
+  margin: 20px auto;
+}
+
+.answer {
+  text-align: center;
+  margin-top: 90px;
+  font-weight: 800;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 10px;
+}
